@@ -90,6 +90,7 @@ namespace TriInefficace
                 nbTriABulle++;
                 if(!echange)
                 {
+                    Console.WriteLine("Il n'y a pas eu permutation");
                     break;
                 }
             }
